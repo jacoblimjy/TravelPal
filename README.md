@@ -2,7 +2,6 @@
 
 * Link to documentation : [Here](https://github.com/user-attachments/files/16045786/TravelPal_Final.Report_L1G4.pdf)
 
-### Video
 * Application's Video :
 [![Application's Video](https://github.com/jacoblimjy/TravelPal/assets/111573383/e05314c9-022d-4984-8a67-afde802b56d0)](https://youtu.be/mdOf2EuANcI)
 
