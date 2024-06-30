@@ -1,6 +1,7 @@
 ### TravelPal: Journey Together, Share Forever
 
 * Link to documentation : [Here](https://github.com/user-attachments/files/16045786/TravelPal_Final.Report_L1G4.pdf)
+* Application's Video
 * [![Application's Video](https://github.com/jacoblimjy/TravelPal/assets/111573383/587fc219-db99-4ef8-9948-a19ce7f8e753)](https://youtu.be/mdOf2EuANcI)
 
 
