@@ -1,7 +1,7 @@
 ### TravelPal: Journey Together, Share Forever
 
 ### Documentation
-* Link to documentation : [Here](https://docs.google.com/document/d/1zgjIlPzKq49gfRV1-iL5_HP6-mr91C6dOizvysGtNtk/edit?usp=sharing)
+* Link to documentation : [Here](https://drive.google.com/file/d/1SLtSWWQeEOOD0udVa-oE17kIRFo_SG_Y/view?usp=sharing)
 ### Video
 
 * Application's Video :
