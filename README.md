@@ -1,5 +1,8 @@
 ### TravelPal: Journey Together, Share Forever
 
+[TravelPal_Final Report_L1G4.pdf](https://github.com/user-attachments/files/16045786/TravelPal_Final.Report_L1G4.pdf)
+
+
 Travelling is an enriching experience that allows individuals to explore new cultures, discover breathtaking landscapes, and create lasting memories. However, many travellers struggle to effectively document and share their travel experiences in a cohesive and personalised manner. For instance, traditional methods of documenting travels such as pen-and-paper journals often fail to encapsulate depth and breadth of one’s travel journeys, resulting in fragmented documentations. Although there are multiple travel blog websites such as The Travel Blog, their cluttered, aesthetically unappealing user interface fails to provide a pleasant user experience.
 
 Alternatively, travellers turn to social media platforms to document their travel experiences. Although they can post their travel stories, these platforms typically prioritise real-time updates and lack the depth necessary for them to reflect on and preserve their travel experiences over time. As a result, travellers may find it difficult to revisit and relive their adventures or share them with others in a meaningful way.
