@@ -1,6 +1,8 @@
 ### TravelPal: Journey Together, Share Forever
 
 * Link to documentation : [Here](https://github.com/user-attachments/files/16045786/TravelPal_Final.Report_L1G4.pdf)
+* [![Application's Video]((https://github.com/jacoblimjy/TravelPal/assets/111573383/587fc219-db99-4ef8-9948-a19ce7f8e753))](https://youtu.be/mdOf2EuANcI)
+
 
 
 Travelling is an enriching experience that allows individuals to explore new cultures, discover breathtaking landscapes, and create lasting memories. However, many travellers struggle to effectively document and share their travel experiences in a cohesive and personalised manner. For instance, traditional methods of documenting travels such as pen-and-paper journals often fail to encapsulate depth and breadth of one’s travel journeys, resulting in fragmented documentations. Although there are multiple travel blog websites such as The Travel Blog, their cluttered, aesthetically unappealing user interface fails to provide a pleasant user experience.
